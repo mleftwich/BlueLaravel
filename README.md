@@ -16,7 +16,7 @@
   ## Description
   Simple CRUD application using the Laravel framework, utilizing community best practices and project structure.No front-end, user can create a todo list using curl requests or a GUI like Postman or Insomnia.
 
-      ![Screenshot](https://raw.githubusercontent.com/mleftwich/BlueLaravel/main/resources/imgs/laravel.png)
+![Screenshot](https://raw.githubusercontent.com/mleftwich/BlueLaravel/main/resources/imgs/laravel.png)
 
   ## Installation
    Clone the repository and run a docker instance to facilitate Laravel Sail. Don't forget to migrate with 'sail php artisan db:migrate' and 'sail php artisan db:seed'.
